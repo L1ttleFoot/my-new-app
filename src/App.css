@@ -1,0 +1,9 @@
+.App {
+  display: grid;
+  grid-template-areas:
+  's h'
+  's c'
+  ;
+  grid-template-rows: 60px 1fr;
+  grid-template-columns: 4fr 8fr;
+}
